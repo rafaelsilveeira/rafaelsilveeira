@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelsilveeira&hide=issues,stars&show_icons=true&hide_border=true&count_private=true&theme=gruvbox)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelsilveeira&hide=issues,stars&show_icons=true&hide_border=true&count_private=true&theme=gruvbox) -->
 
 <div align="left" style="display: inline_block">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
